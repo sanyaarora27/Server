@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "express server of a todo app list",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanyaarora27/Server.git"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "author": "Sanya Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanyaarora27/Server/issues"
+  },
+  "homepage": "https://github.com/sanyaarora27/Server#readme"
+}
